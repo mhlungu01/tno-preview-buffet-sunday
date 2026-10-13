@@ -1,0 +1,2 @@
+export const business = {"phone":"081 486 3045","location":"Soweto","palette":["#563923","#dca65e","#f7f0e4"],"sub":"A warm concept for food, catering and bakery discovery in Soweto.","archetype":"Hospitality","title":"Good things gather here.","industry":"Catering, restaurant, bakery","photo":"https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1800&q=85","email":"","name":"Buffet Sunday"};
+
